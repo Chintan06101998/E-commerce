@@ -4,7 +4,7 @@ const Base = ({
   title = "My Title",
   description = "My desription",
   className = "bg-dark text-white p-4",
-  children,
+  children
 }) => (
   <div>
     <div className="container-fluid">
